@@ -1,4 +1,4 @@
-import {STR_LENGTH, CHAR_CODE_FROM, caesar} from '../caesar';
+import {STR_LENGTH, CHAR_CODE_FROM, caesar} from '../src/caesar';
 import { assert } from 'chai';
 
 
